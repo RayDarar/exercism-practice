@@ -1,6 +1,11 @@
 {
   "rust-analyzer.linkedProjects": [
     "./hello-world/Cargo.toml",
-    "./reverse-string/Cargo.toml"
+    "./reverse-string/Cargo.toml",
+    "./gigasecond/Cargo.toml",
+  ],
+  "cSpell.words": [
+    "datetime",
+    "gigasecond"
   ]
 }
